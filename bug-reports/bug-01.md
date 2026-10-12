@@ -35,4 +35,4 @@ High
 
 ## Вложения
 
-- <img width="800" height="364" alt="Снимок экрана 2026-10-12 215811" src="https://github.com/user-attachments/assets/205897b9-312b-422a-910c-ea178b192628" />
+<img width="800" height="364" alt="Снимок экрана 2026-10-12 215811" src="https://github.com/user-attachments/assets/205897b9-312b-422a-910c-ea178b192628" />
