@@ -35,4 +35,4 @@ Medium
 
 ## Вложения
 
-<img width="1448" height="846" alt="Снимок экрана 2026-10-12 224618" src="https://github.com/user-attachments/assets/9d9a1c9d-0be5-4ca7-ba0a-8794fd2966a6" />
+<img width="800" height="468" alt="Снимок экрана 2026-10-12 224618" src="https://github.com/user-attachments/assets/9d9a1c9d-0be5-4ca7-ba0a-8794fd2966a6" />
