@@ -37,7 +37,8 @@ High
 
 **С багом (iPhone SE 375×667, портретная):**
 
-<img width="451" height="548" alt="image" src="https://github.com/user-attachments/assets/5f2ffa29-b62d-460a-8a3d-ac5d4145075c" />
+<img width="400" height="480" alt="Снимок экрана 2026-10-12 234839" src="https://github.com/user-attachments/assets/a622fa8f-7891-461f-8d41-8303d0c5d500" />
+
 
 **Без бага (iPhone 16 Pro Max 956x440, ландшафтная):**
 
