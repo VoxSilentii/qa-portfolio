@@ -36,4 +36,4 @@ High
 
 ## Вложения
 
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/d17f4f10-1b65-492f-9106-a797758ffbd7" />
+<img width="400" height="199" alt="image" src="https://github.com/user-attachments/assets/d17f4f10-1b65-492f-9106-a797758ffbd7" />
