@@ -4,7 +4,7 @@
 - Устройство: iPhone SE - эмуляция в DevTools
 - ОС: Windows 11
 - Браузер: Microsoft Edge (эмуляция iPhone SE)
-- Как воспроизведено: DevTools -> iPhone SE (375×667)
+- Как воспроизведено: DevTools -> iPhone SE (375x667)
 
 ## Предусловие
 
@@ -14,7 +14,7 @@
 
 1. Открыть DevTools (F12)
 2. Включить режим устройства (Ctrl+Shift+M)
-3. Выбрать iPhone SE (375×667)
+3. Выбрать iPhone SE (375x667)
 
 ## Ожидаемый результат
 
