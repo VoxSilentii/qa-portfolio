@@ -1,7 +1,7 @@
 # Баг-репорт: Видео в баннере не отображается на ширине меньше 768px
 ## Окружение
 
-- Устройство: iPhone SE (375×667) и iPhone 16 Pro Max (956×440) — эмуляция в DevTools
+- Устройство: iPhone SE (375x667) и iPhone 16 Pro Max (956x440) — эмуляция в DevTools
 - ОС: Windows 11
 - Браузер: Microsoft Edge (эмуляция iPhone SE)
 - Как воспроизведено: DevTools -> iPhone SE (375x667) -> iPhone 16 Pro Max (956x440)
