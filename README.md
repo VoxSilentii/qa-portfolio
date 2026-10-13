@@ -10,6 +10,7 @@
 - [Баг-репорты](./bug-reports)
 - [Чек-листы](./checklists)
 - [Тест-кейсы](./test-cases)
+- [API-тесты](./api-tests)
 
 ## Навыки
 
