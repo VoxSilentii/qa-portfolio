@@ -1,5 +1,5 @@
 # Портфолио QA
-Начинающий QA-инженер. Здесь собраны примеры моих работ: баг-репорты, чек-листы, тест-кейсы.
+Начинающий QA-инженер - Кузнецов Роман. Здесь собраны примеры моих работ: баг-репорты, чек-листы, тест-кейсы.
 
 ## Содержание
 
@@ -18,4 +18,8 @@
 
 **Изучал / практиковал отдельно:**
 - Postman: GET, POST, PUT, DELETE (учебные запросы на публичных API)
-- SQL: SELECT, WHERE, ORDER BY, GROUP BY, JOIN (курс / техникум)
+- SQL: SELECT, WHERE, ORDER BY, GROUP BY, JOIN (техникум)
+
+## Контакты
+- Telegram: [@HappyBirthdayAuraMonsterDaniel]
+- Email: romanbsoff@gmail.com
