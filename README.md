@@ -21,5 +21,5 @@
 - SQL: SELECT, WHERE, ORDER BY, GROUP BY, JOIN (техникум)
 
 ## Контакты
-- Telegram: [@romanbsoff]
+- Telegram: @romanbsoff
 - Email: romanbsoff@gmail.com
