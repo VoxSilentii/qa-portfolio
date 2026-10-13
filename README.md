@@ -9,10 +9,13 @@
 
 ## Навыки
 
+**Применял в этом проекте:**
 - Ручное тестирование
-- Тест-дизайн: классы эквивалентности, граничные значения, предугадывание ошибок
+- Тест-дизайн: КЭ, граничные значения, предугадывание ошибок
 - Баг-репорты, чек-листы, тест-кейсы
-- Postman: GET, POST, PUT, DELETE
-- DevTools: Network, адаптивность
-- SQL: SELECT, WHERE, ORDER BY, GROUP BY, JOIN
+- DevTools: Console, Network, Device Toolbar
+- Git / GitHub
 
+**Изучал / практиковал отдельно:**
+- Postman: GET, POST, PUT, DELETE (учебные запросы на публичных API)
+- SQL: SELECT, WHERE, ORDER BY, GROUP BY, JOIN (курс / техникум)
