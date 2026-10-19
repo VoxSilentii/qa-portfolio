@@ -23,6 +23,7 @@
 
 **Изучал / практиковал отдельно:**
 - Postman: GET, POST, PUT, DELETE (учебные запросы на публичных API)
+- Swagger / OpenAPI: тестирование REST API
 - SQL: SELECT, WHERE, ORDER BY, GROUP BY, JOIN (техникум)
 
 ## Контакты
