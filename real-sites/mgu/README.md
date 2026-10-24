@@ -5,4 +5,4 @@
 ## Список
 
 - [Тест-кейс: Проверка перехода в раздел «Документы»](./test-case-01-mgu.md)
-- [Баг-репорт: Ошибка JavaScript BX.setJSList is not a function](./bug-01-mgu.md)
+- [Баг-репорт: Ошибка JavaScript BX.setJSList is not a function в раздел «Документы»](./bug-01-mgu.md)
