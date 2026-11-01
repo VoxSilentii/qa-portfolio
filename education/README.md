@@ -8,3 +8,4 @@
 - [**bug-reports**](./bug-reports) — баг-репорты по результатам тестирования (с шагами, Severity и Priority).
 - [**checklists**](./checklists) — чек-листы для проверки ключевых сценариев.
 - [**test-cases**](./test-cases) — тест-кейсы (позитивные и негативные сценарии).
+- [**automationAI**](./automationAI) — E2E-автотесты на Playwright (созданы с помощью ИИ).
