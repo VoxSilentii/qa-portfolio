@@ -24,6 +24,7 @@
 - Postman: GET, POST, PUT, DELETE (учебные запросы на публичных API)
 - Swagger / OpenAPI: тестирование REST API
 - Fiddler: перехват и анализ HTTP/HTTPS трафика
+- Docker: развертывание Nginx, анализ логов и статус-кодов
 - SQL: SELECT, WHERE, ORDER BY, GROUP BY, JOIN (техникум)
 
 ## Контакты
